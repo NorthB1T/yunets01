@@ -5,6 +5,6 @@
 - 📫 How to reach me you can contact me by mail abdrahmanovjalil18@gmail.com
 
 <!---
-yunets01/yunets01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+NorthB1T/NorthB1T is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
